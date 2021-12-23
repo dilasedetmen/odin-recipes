@@ -1,2 +1,2 @@
 # Odin-Recipes
-pure HTML!
+style.css added but not yet complete!
